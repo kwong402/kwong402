@@ -9,7 +9,7 @@ Currently seeking employment while building more features to my Travel Keep app.
 ## Find Me Elsewhere 🌎
 
 <a href="https://www.linkedin.com/in/kwong402/" target="_blank">
-  ![linkedin](https://img.shields.io/badge/LinkedIn-0277b5?style=for-the-badge&logo=LinkedIn&logoColor=white
+  <img ![linkedin](https://img.shields.io/badge/LinkedIn-0277b5?style=for-the-badge&logo=LinkedIn&logoColor=white />
 </a>
 
 
