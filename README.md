@@ -1,6 +1,8 @@
 ## Hi, I'm Karen 👋🏼
 
-I'm a software developer who is open to work! In the areas of STEM, I have previously taught high school Science and Math. I am now pursuing the track of putting all these areas together to have a deeper understanding and continual learning in this new career. Some technologies I enjoy working with include React, Javascript, Ruby, Rails, and PostgreSQL.
+I'm a software developer who is open to work! In the areas of STEM, I have previously taught high school Science and Math. I am now pursuing the track of putting all these areas together to have a deeper understanding and continual learning in this new career. Some technologies I enjoy working with include React, Javascript, Gatsby, Typescript, Ruby, Rails, and PostgreSQL.
+
+Former company activity: https://github.com/karenfastforward
 
 ## What I'm Focusing On 👩🏻‍💻
 
